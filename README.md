@@ -1,5 +1,7 @@
 # Nuclear Tensor Contraction Library (NTCL)
 
+> This is a fork of the [official NTCL repository](https://gitlab.com/ntcl/ntcl) being used for development of a C interface.
+
 ## Introduction
 NTCL is a domain-specific numerical library that presents a tensor contraction API to fortran. It is plugin based and supports multiple hardware architectures like NVIDIA and AMD GPU's as well as regular CPU's. In its simplest form, NTCL have very few dependencies, but it can utilize other libraries like cublas, magma, rocmblas, and cuTENSOR if they are available.
 
