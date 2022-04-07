@@ -1,3 +1,6 @@
 [submodule "ntcl-util"]
 	path = ntcl-util
 	url = https://github.com/cheshyre/ntcl-util
+[submodule "ntcl-data"]
+	path = ntcl-data
+	url = https://github.com/cheshyre/ntcl-data
