@@ -33,3 +33,4 @@ set(NTCL_BUILD_DIR ${CMAKE_CURRENT_BINARY_DIR})
 
 add_subdirectory(ntcl-util)
 add_subdirectory(ntcl-data)
+add_subdirectory(ntcl-tensor)
