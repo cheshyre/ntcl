@@ -4,3 +4,6 @@
 [submodule "ntcl-data"]
 	path = ntcl-data
 	url = https://github.com/cheshyre/ntcl-data
+[submodule "ntcl-tensor"]
+	path = ntcl-tensor
+	url = https://github.com/cheshyre/ntcl-tensor
